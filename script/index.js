@@ -171,3 +171,4 @@ newMatrix.renameRow(0 ,0, 0.5);
 newMatrix.renameRow(0 ,1, 0.6);
 newMatrix.renameRow(0 ,2, 0.3);
 newMatrix.log();
+/// Второй
